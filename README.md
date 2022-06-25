@@ -26,6 +26,8 @@
 
 ---
 
+# Check : <a href="https://github.com/steroid-team/app">Source repository</a>
+
 # Our principles
 
 We believe that a good agenda/note taking app should be:
